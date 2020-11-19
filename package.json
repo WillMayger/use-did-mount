@@ -1,6 +1,6 @@
 {
   "name": "use-did-mount",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A last solution for componentDidMount in react hooks",
   "main": "dist/use-did-mount.js",
   "scripts": {
@@ -28,9 +28,9 @@
     "componentDidMount",
     "react",
     "hooks",
-    "componentdidmount",
-    "react",
-    "hooks"
+    "use-did-mount",
+    "useDidMount",
+    "componentDidMount react hooks"
   ],
   "author": "Will Mayger",
   "license": "ISC",
