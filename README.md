@@ -1,6 +1,6 @@
 # useDidMount React Hook for using componentDidMount in react hooks.
 
-This package is inteded as a last resort for using componentDidMount in react hooks.
+This package is intended as a last resort for using componentDidMount in react hooks.
 
 There are other, simpler, more efficient, solutions to finding a componentDidMount equivalent in react hooks that do not need to be imported. The article and gist below will help you find the relevant one for you.
 
